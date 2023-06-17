@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-int i;
+	int i;
 
 	for (i = 97; i < 123; i++)
 	{
@@ -20,6 +20,4 @@ int i;
 	}
 	putchar('\n');
 	return (0);
-} 
- 
-
+}
